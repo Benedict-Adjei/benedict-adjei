@@ -1,7 +1,7 @@
 # 🛡️ Benedict Adjei
 ## 👋🏾 About Me
 
-I go by the name Benedict Adjei, a current Computer Information Systems student at Livingstone College, building my career at the intersection of Security Operations + Software Engineering.
+I go by the name Benedict Adjei, a current Computer Science student at Livingstone College, building my career at the intersection of Security Operations + Software Engineering.
 
 With a strong foundation in network engineering, I am developing hands-on experience across threat detection, alert triage, incident response, SIEM analysis, network traffic analysis, intrusion detection, and Linux security monitoring.
 
