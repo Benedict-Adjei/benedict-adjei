@@ -148,11 +148,7 @@ I use security labs to practice the same workflow expected from an entry-level S
 |---|---|---|
 | CodePath CYB102 | SOC & Cybersecurity | In Progress |
 | KC7 | Security Investigations / Threat Analysis | In Progress |
-| TryHackMe | `[Path / Room]` | `[Status]` |
-| Blue Team Labs Online | `[Investigation]` | `[Status]` |
-| `[Platform]` | `[Focus]` | `[Status]` |
-
----
+| TryHackMe | Blue Team Labs | In Progress |
 
 ## 🚩 Capture the Flag
 
@@ -160,25 +156,7 @@ I use CTF challenges to improve investigation, log-analysis, networking, and sec
 
 | Competition | Result | Focus |
 |---|---:|---|
-| `[CTF Name]` | `[Ranking / Points]` | `[Category]` |
-| `[CTF Name]` | `[Ranking / Points]` | `[Category]` |
-| `[CTF Name]` | `[Ranking / Points]` | `[Category]` |
-
-> Rankings and results will be added only after participating in each competition.
-
----
-
-## ✍️ Articles & Write-Ups
-
-I document investigations and labs to demonstrate **how I think through security incidents**, not just which tools I can run.
-
-### Planned / Published Write-Ups
-
-- `[Directory Traversal: From Exploitation to Snort Detection]` — `[Link]`
-- `[Building and Tuning My First Snort Detection Rule]` — `[Link]`
-- `[Linux File Permission Auditing with auditd]` — `[Link]`
-- `[Investigating a PCAP Like an L1 SOC Analyst]` — `[Link]`
-- `[Article / Write-Up]` — `[Link]`
+| Downtime CTF | Top 20% | Alert Triage, Malware Analysis, Digital Forensics and Incidence Response |
 
 ---
 
@@ -193,27 +171,6 @@ I document investigations and labs to demonstrate **how I think through security
 - Built practical understanding of enterprise infrastructure that now supports my transition into **SOC and cybersecurity operations**.
 
 ---
-
-## 🤝 Fellowships & Community
-
-### 🚀 The Accelerators Program
-
-`[Add official role, dates, accomplishments, or program description]`
-
-### 🟣 ColorStack
-
-Engaged with the ColorStack community while developing my technical skills, professional network, and preparation for opportunities in technology and cybersecurity.
-
-`[Add specific membership, fellowship, program, or accomplishment if applicable]`
-
-### 🎓 Livingstone College
-
-**B.S. Computer Information Systems — Expected May 2030**
-
-Building foundations across computer information systems, networking, security, and technology while pursuing hands-on cybersecurity projects outside the classroom.
-
----
-
 ## 📚 Currently Learning
 
 ```text
