@@ -120,6 +120,25 @@ I am currently seeking opportunities where I can **contribute, learn from experi
 
 ## 🚀 Featured Security Projects
 
+
+### 🛡️ SOC Alert Triage & Phishing Investigation
+
+**Problem:** SOC analysts receive security alerts that need to be investigated before deciding whether they are real threats or false positives.
+
+**Tools:** `TryHackMe SOC Simulator` • `Splunk SIEM` • `TryDetectThis` • `Firewall Logs` • `Investigation Playbooks`
+
+**What I did:**
+- Investigated five simulated security alerts involving suspicious emails and network connections.
+- Used Splunk to review email and firewall logs, including source and destination IP addresses, ports, and firewall actions.
+- Investigated an HRCONNEX onboarding email and identified evidence supporting a false-positive classification.
+- Examined blocked and allowed network connections and checked suspicious IP addresses using threat intelligence.
+- Documented investigation findings, indicators of compromise, and alert classifications in incident reports.
+
+**What I learned:** This project helped me practice alert triage, phishing analysis, log investigation, and incident reporting. It also taught me the importance of reviewing evidence before deciding whether an alert is malicious.
+
+🔗 **[View Project & Investigation Reports](https://github.com/Benedict-Adjei/alert-triage)**
+  
+
 ### 🔴 Directory Traversal Attack Detection & Incident Investigation
 
 **Problem:** A vulnerable file service failed to validate user-supplied paths, creating the risk of unauthorized access to files outside its intended directory.
