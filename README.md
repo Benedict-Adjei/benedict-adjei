@@ -37,9 +37,7 @@ I am currently seeking opportunities where I can **contribute, learn from experi
 - [Featured Security Projects](#-featured-security-projects)
 - [Hands-On Labs](#-hands-on-labs)
 - [Capture the Flag](#-capture-the-flag)
-- [Articles & Write-Ups](#-articles--write-ups)
 - [Experience](#-experience)
-- [Fellowships & Community](#-fellowships--community)
 - [Currently Learning](#-currently-learning)
 - [Contact](#-contact)
 
